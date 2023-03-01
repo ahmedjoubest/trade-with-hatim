@@ -1,0 +1,13 @@
+name: Phase
+title: Phase
+username:
+account: ahmedjouwork
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8350696
+bundleId: 6861326
+url: https://ahmedjouwork.shinyapps.io/Phase/
+when: 1676733212.83658
+lastSyncTime: 1676733212.8366
+asMultiple: FALSE
+asStatic: FALSE
